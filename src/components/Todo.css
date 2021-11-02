@@ -1,0 +1,32 @@
+.todo-main {
+  background: rgb(34, 29, 29);
+  width: 50vw;
+  margin: 10em auto;
+  border-radius: 15px;
+  padding: 20px 10px;
+  color: rgb(247, 241, 241);
+  border: 3px solid rgb(36, 110, 194);
+}
+
+.task {
+  border: 1px solid rgb(252, 246, 246);
+  border-radius: 5px;
+  padding: 0.5em;
+  margin: 0.5em;
+}
+
+.complete-btn {
+  background-color: lightgreen;
+  border: none;
+}
+
+.todo-header {
+  padding: 5%;
+}
+
+.input {
+  width: 50%;
+  border: 2px solid lightskyblue;
+  border-radius: 3px;
+  padding: 5px;
+}
